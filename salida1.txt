@@ -1,0 +1,24 @@
+
+Tiempo Inserciones:
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Comparación de Busquedas 
+ Exitosas    Infractuosas
+    2             2
+    5             4
+    8             6
+    9             8
+    11             10
+    14             12
+    16             15
+    18             17
+    19             20
+    21             21
